@@ -1,30 +1,21 @@
-
-.contenedorImagen{
-    position: relative;
-}
-
-.imagenFondo{
-    transform: rotate(90deg);
-    padding-left: 300px;
-}
-
-.imagenCelu{
-    width:20%;
-    height:20%;
-    margin-bottom: 400px;
+*{
+    margin: 0;
 }
 
 .texto{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    color:#0a2ff1;
+    font-size: 34pt;
     text-align: center;
 }
 
-p{
-    font-family: 'Poppins bold', sans-serif;
-    font-weight: 200;
-    font-size: 59pt;
-    color:#0a2ff1;
+.contenedorDeImagenes{
+    text-align: center;
+    margin-top: 150px;
 }
-span{
-    background-color:#3ffff3
-    ;
+
+.img{
+   margin-right:30pt;
+   width: 100pt;
 }
