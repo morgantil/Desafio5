@@ -1,21 +1,37 @@
-*{
-    margin: 0;
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    background-color:#04146c;
 }
-
-.texto{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 100;
-    color:#0a2ff1;
-    font-size: 34pt;
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 1500;
+    font-size: 66pt;
+    color:#04146c;
     text-align: center;
 }
-
-.contenedorDeImagenes{
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 20pt;
+    color:#04146c;
     text-align: center;
-    margin-top: 150px;
 }
+.contenedorDeImagen{
+    text-align: center;
+}
+img{
+    width: 600px;
+    border: solid 1px blue;
 
-.img{
-   margin-right:30pt;
-   width: 100pt;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 18pt;
+    color:#04146c;
+    text-align: center;
+    background-color:#edf7ff;
 }
