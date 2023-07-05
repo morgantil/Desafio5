@@ -1,0 +1,30 @@
+
+.contenedorImagen{
+    position: relative;
+}
+
+.imagenFondo{
+    transform: rotate(90deg);
+    padding-left: 300px;
+}
+
+.imagenCelu{
+    width:20%;
+    height:20%;
+    margin-bottom: 400px;
+}
+
+.texto{
+    text-align: center;
+}
+
+p{
+    font-family: 'Poppins bold', sans-serif;
+    font-weight: 200;
+    font-size: 59pt;
+    color:#0a2ff1;
+}
+span{
+    background-color:#3ffff3
+    ;
+}
